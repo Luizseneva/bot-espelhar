@@ -1,0 +1,18 @@
+{
+  "api_id": "16865199",
+  "api_hash": "fcd3eabc6451ac2996cc1a168232e99a",
+  "session_name": "alpha_session",
+
+  "mappings": [
+    { "source_id": "-1001204908046", "destination_id": "-1003644648736" },
+    { "source_id": "-1001661499426", "destination_id": "-1003516790025" },
+    { "source_id": "-1001353107026", "destination_id": "-1002864544802" },
+    { "source_id": "-1001676305651", "destination_id": "-1003582719034" },
+    { "source_id": "-1001355671923", "destination_id": "-1003571750241" },
+    { "source_id": "-1003535977387", "destination_id": "-1003571750241" }
+  ],
+
+  "delay_seconds": 2.0,
+  "enable_logs": true,
+  "keywords": []
+}
